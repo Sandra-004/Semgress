@@ -58,7 +58,7 @@ flowchart TD
 ```
 ---
 
-## 🧠 Core ML Engineering Highlights (The "Secret Sauce")
+## 🧠 Core ML Engineering Highlights
 
 This project bypasses several fundamental limitations of Small Language Models (SLMs):
 
